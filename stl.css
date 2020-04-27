@@ -1,0 +1,35 @@
+.contain::after , .r::after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.c{olumn 
+     
+    width:100%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+@media screen and (max-width: 100px){
+    .c{
+    width:100%;
+    display: block;
+    }
+}  
+
+.title{
+    color: grey;
+}
+
+.card{ 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.containe{
+    float: center;
+    width:40%;
+    margin: 0 auto;
+    padding:auto;
+    
+}

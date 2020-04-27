@@ -1,0 +1,95 @@
+.footer{
+	
+	left:0;
+	right:0;
+	bottom:0;
+	width:100%;
+}
+
+
+a:link{
+	color:red;
+	text-decoration:none;
+}
+a:visited{
+	color:purple;
+	text-decoration:none;
+}
+
+a:active{ 
+    background-color:white;
+}
+ 
+
+fieldset,legend
+		    {
+			border:2px slateblue;
+			font-family:courier;
+			font-size:120%;
+			color:yellow;
+			}
+			
+.contenthead{
+    color: gold;
+    font-size: 50px;
+    margin-top: 15px;
+	font-family:magneto;
+}
+.contenthead:hover{
+    
+    color: #0090DB;
+}
+.pagehead{
+    color: tomato;
+    font-size: 1.8em;
+    margin-top: 35px;
+}
+
+.comment{
+    color: lawngreen;
+	text-align:center-left;
+    font-weight:bold;
+    margin-top:-2px;
+	font-family:chiller;
+}
+
+.contentsmalldiv p{
+	color:green;
+	font-family:Papyrus;
+    font-size:25px;
+    font-weight:bold;
+  
+}
+.continue{
+    font-size: 1.2em;
+    float: right;
+}
+#content{
+    min-height: 300px;
+}
+#request{
+	min-height: 300px;
+}
+p{
+	font-size:30px;
+    text-decoration:none;
+}
+
+.suc{
+color: rgb(158, 27, 214);
+font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+font-size: 1.4em;
+font-weight:bold;
+}
+
+#field{
+	color:yellowgreen;
+	font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+	font-weight:bold;
+}
+
+#error{
+	font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+	color:red;
+}
+
