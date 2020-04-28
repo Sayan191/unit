@@ -20,15 +20,7 @@ a:active{
     background-color:white;
 }
  
-
-fieldset,legend
-		    {
-			border:2px slateblue;
-			font-family:courier;
-			font-size:120%;
-			color:yellow;
-			}
-			
+		
 .contenthead{
     color: gold;
     font-size: 50px;
