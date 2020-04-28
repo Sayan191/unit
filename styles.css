@@ -33,7 +33,6 @@ fieldset,legend
     color: gold;
     font-size: 50px;
     margin-top: 15px;
-	font-family:magneto;
 }
 .contenthead:hover{
     
@@ -55,15 +54,12 @@ fieldset,legend
 
 .contentsmalldiv p{
 	color:green;
-	font-family:Papyrus;
+	
     font-size:25px;
     font-weight:bold;
   
 }
-.continue{
-    font-size: 1.2em;
-    float: right;
-}
+
 #content{
     min-height: 300px;
 }
@@ -75,21 +71,8 @@ p{
     text-decoration:none;
 }
 
-.suc{
-color: rgb(158, 27, 214);
-font-family: Bitter,Georgia,"Times New Roman",Times,serif;
-font-size: 1.4em;
-font-weight:bold;
-}
-
 #field{
 	color:yellowgreen;
 	font-family: Bitter,Georgia,"Times New Roman",Times,serif;
 	font-weight:bold;
 }
-
-#error{
-	font-family: Bitter,Georgia,"Times New Roman",Times,serif;
-	color:red;
-}
-
