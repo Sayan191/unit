@@ -23,7 +23,7 @@ a:active{
 		
 .contenthead{
     color: gold;
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 15px;
 }
 .contenthead:hover{
@@ -37,7 +37,7 @@ a:active{
 }
 
 .comment{
-    color: lawngreen;
+    color: rgb(250, 0, 0);
 	text-align:center-left;
     font-weight:bold;
     margin-top:-2px;
@@ -45,7 +45,7 @@ a:active{
 }
 
 .contentsmalldiv p{
-	color:green;
+	color:black;
 	
     font-size:25px;
     font-weight:bold;
